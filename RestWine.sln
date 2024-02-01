@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestWine", "RestWine\RestWine.csproj", "{6CF78E3E-D7A4-419F-A3F1-71C61B3A1F2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CF78E3E-D7A4-419F-A3F1-71C61B3A1F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF78E3E-D7A4-419F-A3F1-71C61B3A1F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF78E3E-D7A4-419F-A3F1-71C61B3A1F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF78E3E-D7A4-419F-A3F1-71C61B3A1F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F74A873-B4DB-486B-A160-A3F6526A36C7}
+	EndGlobalSection
+EndGlobal
