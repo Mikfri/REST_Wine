@@ -12,10 +12,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="WineLib">
+	  <ProjectReference Include="..\..\WineLib\WineLib.csproj" />
+	  <!--<Reference Include="WineLib">-->	  
       <!-- <HintPath>..\..\WineLib\WineLib\bin\Debug\net8.0\WineLib.dll</HintPath> -->
-	  <HintPath>C:\Users\mikkf\source\repos\WineLib\WineLib\bin\Debug\net8.0\WineLib.dll</HintPath>
-	</Reference>
+	  <!--<HintPath>C:\Users\mikkf\source\repos\WineLib\WineLib\bin\Debug\net8.0\WineLib.dll</HintPath>
+	</Reference>-->
   </ItemGroup>
 
 </Project>
