@@ -22,3 +22,15 @@ C:\Users\mikkf\source\repos\WineLib\WineLib\obj\Debug\net8.0\WineLib.dll
 C:\Users\mikkf\source\repos\WineLib\WineLib\obj\Debug\net8.0\refint\WineLib.dll
 C:\Users\mikkf\source\repos\WineLib\WineLib\obj\Debug\net8.0\WineLib.pdb
 C:\Users\mikkf\source\repos\WineLib\WineLib\obj\Debug\net8.0\ref\WineLib.dll
+C:\Users\mikkf\Source\Repos\Wine\WineLib\bin\Debug\net8.0\WineLib.deps.json
+C:\Users\mikkf\Source\Repos\Wine\WineLib\bin\Debug\net8.0\WineLib.dll
+C:\Users\mikkf\Source\Repos\Wine\WineLib\bin\Debug\net8.0\WineLib.pdb
+C:\Users\mikkf\Source\Repos\Wine\WineLib\obj\Debug\net8.0\WineLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikkf\Source\Repos\Wine\WineLib\obj\Debug\net8.0\WineLib.AssemblyInfoInputs.cache
+C:\Users\mikkf\Source\Repos\Wine\WineLib\obj\Debug\net8.0\WineLib.AssemblyInfo.cs
+C:\Users\mikkf\Source\Repos\Wine\WineLib\obj\Debug\net8.0\WineLib.csproj.CoreCompileInputs.cache
+C:\Users\mikkf\Source\Repos\Wine\WineLib\obj\Debug\net8.0\WineLib.sourcelink.json
+C:\Users\mikkf\Source\Repos\Wine\WineLib\obj\Debug\net8.0\WineLib.dll
+C:\Users\mikkf\Source\Repos\Wine\WineLib\obj\Debug\net8.0\refint\WineLib.dll
+C:\Users\mikkf\Source\Repos\Wine\WineLib\obj\Debug\net8.0\WineLib.pdb
+C:\Users\mikkf\Source\Repos\Wine\WineLib\obj\Debug\net8.0\ref\WineLib.dll
