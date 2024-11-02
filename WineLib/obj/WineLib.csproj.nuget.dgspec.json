@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mikkf\\source\\repos\\WineLib\\WineLib\\WineLib.csproj": {}
+    "C:\\Users\\mikkf\\Source\\Repos\\Wine\\WineLib\\WineLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mikkf\\source\\repos\\WineLib\\WineLib\\WineLib.csproj": {
+    "C:\\Users\\mikkf\\Source\\Repos\\Wine\\WineLib\\WineLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mikkf\\source\\repos\\WineLib\\WineLib\\WineLib.csproj",
+        "projectUniqueName": "C:\\Users\\mikkf\\Source\\Repos\\Wine\\WineLib\\WineLib.csproj",
         "projectName": "WineLib",
-        "projectPath": "C:\\Users\\mikkf\\source\\repos\\WineLib\\WineLib\\WineLib.csproj",
+        "projectPath": "C:\\Users\\mikkf\\Source\\Repos\\Wine\\WineLib\\WineLib.csproj",
         "packagesPath": "C:\\Users\\mikkf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mikkf\\source\\repos\\WineLib\\WineLib\\obj\\",
+        "outputPath": "C:\\Users\\mikkf\\Source\\Repos\\Wine\\WineLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mikkf\\AppData\\Roaming\\NuGet\\NuGet.Config",
