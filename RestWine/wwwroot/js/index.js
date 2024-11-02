@@ -1,6 +1,6 @@
 // use https (http secure).
 // http (non secure) will make the app complain about mixed content when running the app from Azure
-const baseUrl = "https://winerest.azurewebsites.net/api"
+const baseUrl = "https://winerest.azurewebsites.net/api/Wine"
 
 Vue.createApp({
     data() {
