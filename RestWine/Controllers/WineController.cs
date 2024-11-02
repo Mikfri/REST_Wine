@@ -5,8 +5,8 @@ using WineLib.Repository;
 
 namespace RestWine.Controllers
 {
-    //[Route("api/[controller]")]
-    [Route("api")]
+    [Route("api/[controller]")]
+    //[Route("")]
     [ApiController]
 
     public class WineController : ControllerBase
