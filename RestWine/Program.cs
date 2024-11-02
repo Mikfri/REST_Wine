@@ -36,6 +36,9 @@ app.UseSwaggerUI(c =>
 //    app.UseSwaggerUI();
 //}
 
+app.UseDefaultFiles(); // Middleware to serve default files like index.html
+app.UseStaticFiles();  // Middleware to serve static files
+
 app.UseCors("AllowAll");
 
 app.UseAuthorization();
